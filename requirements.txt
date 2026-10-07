@@ -1,0 +1,16 @@
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.3.3
+scikit-learn==1.7.2
+lightgbm==4.6.0
+xgboost==3.2.0
+catboost==1.2.10
+cvxpy==1.7.5
+Mosek==11.2.2
+optuna==4.8.0
+matplotlib==3.10.8
+torch==2.10.0
+joblib==1.5.3
+threadpoolctl==3.6.0
+tqdm==4.67.3
+xlrd==2.0.2
